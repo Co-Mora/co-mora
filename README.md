@@ -5,7 +5,7 @@ I'm Omar Ahmet a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 5+ ye
 :mailbox: Reach me out!
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Omarah382/)](https://twitter.com/Omarah382/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omardev19/)](https://www.linkedin.com/in/omardev19/) [![Mail Badge](https://img.shields.io/badge/-@omardev19-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/omarcsjs) [![Mail Badge](https://img.shields.io/badge/-omardev19-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omardev19@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omardev19/)](https://www.linkedin.com/in/omardev19/) [![Mail Badge](https://img.shields.io/badge/-@omarcsjs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/omarcsjs) [![Mail Badge](https://img.shields.io/badge/-omardev19-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omardev19@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -20,7 +20,7 @@ I'm Omar Ahmet a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 5+ ye
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=00C756)
-![REACTJS](https://img.shields.io/badge/react-js-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=00C756) 
+![REACTJS](https://img.shields.io/badge/react-js-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=00C756) 
 ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00C756)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=00C756)
 <br>
