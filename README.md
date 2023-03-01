@@ -6,6 +6,7 @@ I'm Omar Ahmet a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 5+ ye
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Omarah382/)](https://twitter.com/Omarah382/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omardev19/)](https://www.linkedin.com/in/omardev19/) [![Mail Badge](https://img.shields.io/badge/-@omarcsjs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/omarcsjs) [![Mail Badge](https://img.shields.io/badge/-omardev19-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:omardev19@gmail.com)
+[![wakatime](https://wakatime.com/badge/user/8f662ab5-4d92-488a-9602-2adce59fa863.svg)](https://wakatime.com/@8f662ab5-4d92-488a-9602-2adce59fa863)
 
 <!-- TODO: Add last video link -->
 
