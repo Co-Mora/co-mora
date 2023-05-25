@@ -10,7 +10,7 @@ I'm Omar Fawzy a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 6+ ye
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Outliant
+- 🔭 Startup Founder @Obvend
 - :computer: Most used line of code `git commit -am "Init Commit"`
 - 📫 How to reach me: omardev19@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
@@ -47,18 +47,3 @@ I'm Omar Fawzy a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 6+ ye
 
 <br />
 <br />
-
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/co-mora/co-mora/blob/master/resumes/resume-v1.pdf)
-- :email: omardev19@gmail.com
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
