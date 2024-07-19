@@ -1,6 +1,7 @@
 ## Hi I'm Omar 👨‍💻 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Omar Fawzy a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 6+ years solving real-world problems using Technology. I spend most of time coding client projects or writing tests :).
+A Full Stack Software Engineer with 📈 6+ years solving real-world problems, who's collaborated with numerous groups, both large and small, over my career. I'm an expert in making enhancements to issues with current software and making sure everything works properly. My primary goal is to go above and beyond your expectations and establish enduring relationships by attending to your needs as though they were my own. I have experience working across time zones remotely.
+
 
 :mailbox: Reach me out!
 
@@ -10,7 +11,7 @@ I'm Omar Fawzy a Full Stack Software Engineer ⚡️ JS/TS proficient 📈 6+ ye
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Startup Founder @Obvend
+- 🔭 Startup Founder @Blummic
 - :computer: Most used line of code `git commit -am "Init Commit"`
 - 📫 How to reach me: omardev19@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
